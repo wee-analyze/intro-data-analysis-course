@@ -1,5 +1,5 @@
 # intro-data-Analysis-course
-Udacity's Data Analysis Intro Course
+My Python notebook for Udacity's Data Analysis Intro Course from a long time ago.
 
 Programming Language: Python 2.7
 
